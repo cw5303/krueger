@@ -1,0 +1,6 @@
+[submodule "dr-krueger/hugo-now-ui"]
+	path = dr-krueger/hugo-now-ui
+	url = https://github.com/cboettig/hugo-now-ui.git
+[submodule "dr-krueger/themes/themes/hugo-now-ui"]
+	path = dr-krueger/themes/themes/hugo-now-ui
+	url = https://github.com/cboettig/hugo-now-ui
